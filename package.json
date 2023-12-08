@@ -18,6 +18,13 @@
     "@angular/platform-browser": "^17.0.0",
     "@angular/platform-browser-dynamic": "^17.0.0",
     "@angular/router": "^17.0.0",
+    "@ckeditor/ckeditor5-angular": "^7.0.1",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^40.1.0",
+    "@ckeditor/ckeditor5-build-inline": "^40.1.0",
+    "@ckeditor/ckeditor5-core": "^40.1.0",
+    "@ckeditor/ckeditor5-engine": "^40.1.0",
+    "@ckeditor/ckeditor5-utils": "^40.1.0",
+    "@ckeditor/ckeditor5-watchdog": "^40.1.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
